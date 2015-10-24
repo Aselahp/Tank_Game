@@ -74,7 +74,7 @@ namespace Tank_game
         //Remove # from msg
         msg = msg.Remove(msg.Length - 1);
         char index = msg[0];
-       // Console.WriteLine(index);
+       
         if (index.Equals('I'))
         {
             Console.WriteLine("*******************************************************************\n");
@@ -124,7 +124,7 @@ namespace Tank_game
             Console.WriteLine("Your Details Received.......\n");
             String[] parts = msg.Split(';');
             //parts[0] = parts[0].Remove(0);
-            //Console.WriteLine("Player Number Is: " + parts[0]+"\n");
+            
             String[] cor = parts[1].Split(',');
             Console.WriteLine("Your Position Cordinates Are: " + "X--> " + cor[0] + " Y--> " + cor[1] + "\n");
             String dir = null;
