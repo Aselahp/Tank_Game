@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
-
+using System.Windows.Forms;
 
 namespace Tank_game
 {
@@ -15,6 +15,11 @@ namespace Tank_game
         {
             StartConnection();
             Console.ReadLine();
+            GUI gui = new GUI();
+            Application.Run(gui);
+            
+            
+          
         }
 
         public static void StartConnection()

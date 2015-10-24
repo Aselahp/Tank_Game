@@ -4,3 +4,5 @@ C:\Users\H.P. Asela\Documents\Visual Studio 2013\Projects\Tank_game\Tank_game\bi
 C:\Users\H.P. Asela\Documents\Visual Studio 2013\Projects\Tank_game\Tank_game\obj\Debug\Tank_game.csprojResolveAssemblyReference.cache
 C:\Users\H.P. Asela\Documents\Visual Studio 2013\Projects\Tank_game\Tank_game\obj\Debug\Tank_game.exe
 C:\Users\H.P. Asela\Documents\Visual Studio 2013\Projects\Tank_game\Tank_game\obj\Debug\Tank_game.pdb
+C:\Users\H.P. Asela\Documents\Visual Studio 2013\Projects\Tank_game\Tank_game\obj\Debug\Tank_game.csproj.GenerateResource.Cache
+C:\Users\H.P. Asela\Documents\Visual Studio 2013\Projects\Tank_game\Tank_game\obj\Debug\Tank_game.GUI.resources
