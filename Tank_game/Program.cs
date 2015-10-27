@@ -175,7 +175,7 @@ namespace Tank_game
             String dir = null;
             for (int i = 0; i < Updates.Length; i++)
             {
-                // Display the decoded results
+                // Display the final decoded results
                 Console.WriteLine("Player: " + Updates[i][0]);
                 Console.WriteLine("X Coordinate--> " + Updates[i][1]);
                 Console.WriteLine("Y Coordinate--> " + Updates[i][2]);
